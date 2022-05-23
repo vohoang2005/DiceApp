@@ -1,5 +1,4 @@
 function rolldice() {
-
     // Create randomnumber for dice 1.
 var randomNumber1 = Math.floor(Math.random() * 6) + 1; //1-6
 var randomDiceImage = "dice" + randomNumber1 + ".png"; //dice1.png to dice6.png
