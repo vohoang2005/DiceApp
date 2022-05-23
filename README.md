@@ -16,9 +16,6 @@ Usage/Tools:
 
 https://vimeo.com/712699094/1b484d4541
 
-
-### Created by: Chuong Vo
-
 https://vohoang2005.github.io/DiceApp/
 
 ### Created by: Chuong Vo
