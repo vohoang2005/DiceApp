@@ -16,6 +16,6 @@ Usage/Tools:
 
 https://vimeo.com/712699094/1b484d4541
 
-https://vohoang2005.github.io/DiceApp/
+[https://vohoang2005.github.io/DiceApp/](https://vohoang2005.github.io/DiceApp/dicee.html)
 
 ### Created by: Chuong Vo
